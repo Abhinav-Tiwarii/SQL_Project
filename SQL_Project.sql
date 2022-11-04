@@ -1,0 +1,1 @@
+SELECT * from [dbo].[CovidDeaths] order by 2,3;
